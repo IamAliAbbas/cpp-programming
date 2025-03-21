@@ -9,5 +9,5 @@ int main()
 		cout<<"Do you want to continue\nPress 1 to continue any other key to exit";
 		cin>>flag;
 	}
-	while(flag == 2);
+	while(flag == 2)
 }
